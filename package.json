@@ -1,7 +1,7 @@
 {
   "name": "net.tnrd.scriptingdefineutility",
   "displayName": "Scripting Define Utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool that allows easier modifications to the Scripting Define Symbols",
   "unity": "2019.1",
   "type": "tool",
